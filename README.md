@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![valentineodessa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=valentineodessa&theme=default&hide_border=true)
 <!--
 **valentineodessa/valentineodessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
